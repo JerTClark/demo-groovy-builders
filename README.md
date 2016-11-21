@@ -1,0 +1,2 @@
+## demo-groovy-builders
+A collection of simple demonstrations of how to use various builders featured in the Groovy language based on the examples from the book, [Programming Groovy 2](https://pragprog.com/book/vslg2/programming-groovy-2) by Venkat Subramaniam.
